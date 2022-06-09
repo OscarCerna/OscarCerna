@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Oscar!
+# 🤺 Hi there, I'm Oscar!
 
 ## ㊗️ About Me 
 <p> Goal-oriented Web Developer. Capable of working well independently or as part of a professional development team. Passionate about Programming, Innovation and Technology. Experienced in .NET Full-Stack Web Development with fundamental knowledge of software design, development, and testing. Seeking to utilize broad background with proficient technical and programming skills to thrive as a front-end developer. </p>
